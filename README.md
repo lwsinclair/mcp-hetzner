@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/dkruyt-mcp-hetzner-badge.jpg)](https://mseep.ai/app/dkruyt-mcp-hetzner)
+
 # Hetzner Cloud MCP Server
 
 A Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API. This server allows language models to manage Hetzner Cloud resources through structured functions.
